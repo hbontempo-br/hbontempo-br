@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hbontempo-br" alt="hbontempo-br" /> </p>
 
-- 🏢 I’m currently working at [CERC](https://www.cerc.inf.br/)
-- 🐍 In love with Python
+- 🏢 I’m currently working at [CloudWalk](https://www.cloudwalk.io/)
+- 🐍 Python is almost always great
 - ❤️ Having an affair with GO
-- 💻 Experimenting with React + Typescript
-- 📖 Always open to new languages and technologies
-- 🐶 Dog lover
+- :diamonds: Learning Ruby/Rails​
+- :book: Always open to new languages and technologies
+- 🐶
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://falcon.readthedocs.io/en/stable/_static/img/logo.svg" alt="facon" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/9fe99fbf17b019125bf649f8a921882b54e151a6/gopher.svg" alt="go" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> <img src="https://falcon.readthedocs.io/en/stable/_static/img/logo.svg" alt="facon" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="40" height="40"/> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbontempo-br&layout=compact" alt="hbontempo-br" /></p>
 
