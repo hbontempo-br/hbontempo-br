@@ -1,4 +1,5 @@
 # Hello there! 👋 I'm Henrique 🌟
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hbontempo-br" alt="hbontempo-br" /> </p>
 
 I'm a backend developer with a passion for crafting scalable and efficient systems. With hands-on experience across a range of technologies, I thrive on tackling new challenges and continuously learning. Here’s a bit about who I am and what I do:
 
